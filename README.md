@@ -1,5 +1,6 @@
 # About Me App.
 
+![p](https://github.com/bell-kevin/aboutMeApp/blob/main/pictures/1.PNG) ![p](https://github.com/bell-kevin/aboutMeApp/blob/main/pictures/2.PNG) ![p](https://github.com/bell-kevin/aboutMeApp/blob/main/pictures/3.PNG) ![p](https://github.com/bell-kevin/aboutMeApp/blob/main/pictures/4.PNG)
 
 ## How to:
 
